@@ -5,37 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8680bd9-c20e-4554-874b-d45d1fd75c57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/FigureGeometrique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/PhoneInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsAndArrays/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsAndArrays/Collections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditions/ConditionalHello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditions/EnumSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditions/LearningLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/SimpleMaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/TemperatureAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/TemperatureAverageWithExceptionHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/MainLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quiz/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quiz2/Quiz2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/readAndWriteFiles/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/readAndWriteFiles/WriteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/Bookstore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/value_vs_reference/Parameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/value_vs_reference/ValueORreference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readAndWriteFiles/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/readAndWriteFiles/ReadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readAndWriteFiles/WriteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/readAndWriteFiles/WriteFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +71,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Heather\IdeaProjects\learning_java" />
       <recent name="C:\Users\Heather\IdeaProjects\learning_java\src" />
     </key>
   </component>
@@ -237,7 +211,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

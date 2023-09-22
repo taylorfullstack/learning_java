@@ -9,7 +9,7 @@ public class ReadFile {
 
         try {
             // Création d'un fileReader pour lire le fichier
-            FileReader fileReader = new FileReader("./README.md");
+            FileReader fileReader = new FileReader("./../README.md");
 
             // Création d'un bufferedReader qui utilise le fileReader
             BufferedReader reader = new BufferedReader(fileReader);
